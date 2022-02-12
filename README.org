@@ -3,4 +3,4 @@
 
 - Allow to center the 3DView on selected item(s) 
 - Menu > View > Align View > Center to Selected
-- Shortcut: ~shift Numpad .~ 
+- Shortcut: ~shift~ ~Numpad .~ 
