@@ -1,6 +1,6 @@
-#+TITLE: blendercenterviewselected
+#+TITLE: script: CenterViewSelected.py
 #+AUTHOR: Raoul Hatterer
 
-- Allow to center the 3DView on selected item(s) 
+- the script allows to center the 3D view on the selected element(s) 
 - Menu > View > Align View > Center to Selected
 - Shortcut: ~shift~ ~Numpad .~ 
