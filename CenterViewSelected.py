@@ -37,7 +37,6 @@ class CentereViewSelected(bpy.types.Operator):
 
 
 def menu_func(self,context):
-    # self.layout.separator()     
     self.layout.operator(CentereViewSelected.bl_idname)
 
 addon_keymaps = []
